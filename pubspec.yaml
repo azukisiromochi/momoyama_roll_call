@@ -32,6 +32,9 @@ dependencies:
   # https://pub.dev/packages/fancy_bottom_navigation
   fancy_bottom_navigation: ^0.3.2
 
+  # https://pub.dev/packages/barcode_scan
+  barcode_scan: ^3.0.1
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
